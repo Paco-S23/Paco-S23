@@ -21,4 +21,6 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: [www.linkedin.com/in/francisco-manuelsz05](#)  
+- LinkedIn: - LinkedIn: [Francisco Manuel Suárez](https://www.linkedin.com/in/francisco-manuelsz05)
+
+
