@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Paco-S23
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning IA, Cybersecurity and Cloud Computing. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Francisco Manuel Suárez
 
-<!---
-Paco-S23/Paco-S23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Systems Engineering student at UDLAP (6th semester).  
+🔒 Interested in Cybersecurity | 🤖 Artificial Intelligence | ☁️ Cloud Computing | 💻 Software Development.  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C, C++, Python, Java, HTML, CSS, Assembly (basic)  
+- **Databases:** MySQL  
+- **Tools:** Git, GitHub, LaTeX, Excel, Word  
+- **Learning:** Machine Learning, Cloud Platforms, Cybersecurity Fundamentals  
+
+---
+
+## 🚀 Featured Projects
+- 📈 **Linear Regression from Scratch** – Implemented using Python, NumPy and Matplotlib to understand the mathematics behind ML.  
+- 📧 **Spam Email Detection (ML)** – Binary classification project with supervised learning in Python.  
+- 🌳 **Data Structures in C** – Implementation of trees, queues, and custom ADTs.  
+
+---
+
+## 📫 Contact
+- LinkedIn: [Your Profile](#)  
+- Email: your.email@example.com  
