@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Francisco Manuel Suárez
 
-🎓 Computer Systems Engineering student at UDLAP (6th semester).  
+🎓 Computer Systems Engineering student at UDLAP (5th semester).  
 🔒 Interested in Cybersecurity | 🤖 Artificial Intelligence | ☁️ Cloud Computing | 💻 Software Development.  
 
 ---
@@ -21,5 +21,4 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: [Your Profile](#)  
-- Email: your.email@example.com  
+- LinkedIn: [www.linkedin.com/in/francisco-manuelsz05](#)  
